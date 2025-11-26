@@ -20,6 +20,10 @@ Applies to all cross-functional projects that deliver product features, services
 - QA/Testing: validate quality and acceptance criteria.
 - Stakeholders: provide inputs and approvals.
 
+For detailed role definitions and additional specialized roles, see [octoacme-roles-and-personas.md](octoacme-roles-and-personas.md).
+
+To add new roles to the organization, use the template provided in [roles-templates.md](roles-templates.md).
+
 ## Key Artifacts
 - Project Charter / One-pager
 - Roadmap and Release Plan
@@ -27,6 +31,7 @@ Applies to all cross-functional projects that deliver product features, services
 - Acceptance Criteria & Definition of Done
 - Risk Register
 - Retrospective notes and action items
+- Cross-cutting checklists (see [cross-cutting-checklists.md](cross-cutting-checklists.md))
 
 ## Lifecycle (high-level)
 1. Initiation: problem statement, stakeholders, high-level timeline.
